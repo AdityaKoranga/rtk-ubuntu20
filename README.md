@@ -57,3 +57,9 @@ After reboot you should be able to see something like this:
 ![image](https://github.com/AdityaKoranga/rtk-ubuntu20/assets/95766110/360e7deb-cc2f-4ef9-8218-4da56bfe3710)
 
 
+Reference:
+[Link1](https://askubuntu.com/questions/1349568/installing-real-time-patch-for-ubuntu-20-04)
+
+[Link2](https://chenna.me/blog/2020/02/23/how-to-setup-preempt-rt-on-ubuntu-18-04/)
+
+[More kernel packages](https://mirrors.edge.kernel.org/pub/linux/kernel/projects/rt/5.4/older/patch-5.4.143-rt64.patch.xz)
